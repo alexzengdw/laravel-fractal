@@ -9,6 +9,7 @@ The package provides a nice and easy wrapper around [Fractal](http://fractal.the
 for use in your Laravel applications. If you don't know what Fractal does, [take a peek at their intro](http://fractal.thephpleague.com/).
 Shortly said, Fractal is very useful to transform data before using it in an API. A test
 Another test
+3rd test
 Using Fractal data can be transformed like this:
 
 ```php
